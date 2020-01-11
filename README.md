@@ -1,7 +1,7 @@
 # psychic-game
 
 <div align="center">
-    <img src="image.png" width="400px"</img> 
+    <img src="./assets/image.png" width="400px"</img> 
 </div>
 
 A letter guessing game created with html and javascript. 
